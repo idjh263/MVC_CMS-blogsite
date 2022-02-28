@@ -25,6 +25,23 @@
 
 ## Usage
 
+1. Sign up to Create Account in able to access blog site 
+<img width="400" alt="signup" src="https://user-images.githubusercontent.com/92761848/155912681-f79e8d39-9cb5-4799-843e-dac92a19f79b.png">
+
+2. Login to enter blog site 
+
+<img width="400" alt="login" src="https://user-images.githubusercontent.com/92761848/155912753-8cf0d6a7-cbf2-45ff-9ddc-ac66704c38a6.png">
+
+3. post your post 
+
+<img width="400" alt="post" src="https://user-images.githubusercontent.com/92761848/155912823-d4fba162-4193-48b7-bae3-10131ab716ff.png">
+
+
+4. after post you can logout. 
+5. from the dashboard you can see all posting 
+
+<img width="400" alt="dashboard" src="https://user-images.githubusercontent.com/92761848/155912886-867aa273-458f-4312-beee-4e08d4cea13c.png">
+
 Built with:
 
 - HTML & CSS
