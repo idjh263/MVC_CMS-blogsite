@@ -43,4 +43,4 @@ https://opensource.org/licenses/MIT
 
 
 ## Credits 
-👪 Made by Irene with the help TA's, instructor @Trilogy, previous api git it done assignment,   and GOOGLE. 
+👪 Made by Irene with the help TA's, instructor @Trilogy, previous api git it done assignment, layc41 and GOOGLE. 

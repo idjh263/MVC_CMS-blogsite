@@ -2,7 +2,7 @@ const Sequelize = require('sequelize');
 
 
 require('dotenv').config();
-
+//need .env file in root 
 
 const sequelize = process.env.JAWSDB_URL
   ? new Sequelize(process.env.JAWSDB_URL)

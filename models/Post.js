@@ -5,11 +5,20 @@ class Post extends Model {}
 
 Post.init(
   {
-    title: DataTypes.STRING,
-    body: DataTypes.STRING
+    title: {
+      type: DataTypes.STRING,
+      allowNull: false
+    },
+    body: {
+      type: DataTypes.STRING,
+      allowNull: false
+    }
+   
   },
   {
-    sequelize
+    sequelize,
+    freezeTableName: true,
+    modelName: 'Post'
   }
 );
 
