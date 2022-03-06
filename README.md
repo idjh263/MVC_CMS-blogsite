@@ -14,9 +14,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Credits](#credits)
+
 
 ## Installation
 💾 1. download or clone file 
@@ -42,7 +41,7 @@
 
 <img width="400" alt="dashboard" src="https://user-images.githubusercontent.com/92761848/155912886-867aa273-458f-4312-beee-4e08d4cea13c.png">
 
-unfortunately, i'm having issue with the heroku https://afternoon-everglades-03769.herokuapp.com/
+URL deployment: https://serene-retreat-48843.herokuapp.com/
 
 
 Built with:
